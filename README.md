@@ -5,7 +5,7 @@ This is a Task List App created using Html, Css, Javascript, and Materialize
 > Nishkarsh Dubb
 
 ## Screenshots
-![App Screenshot](screenshots/1.png)
+![App Screenshot](screenshots/tasklist.png)
 
 ## Developed using
 * Html
