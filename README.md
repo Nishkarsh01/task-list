@@ -24,7 +24,7 @@ or download the zip file from github.
 
 After extracting the files, 
 
-* 1  .`` cd task-list`` 
+* 1  .``cd task-list`` 
 * 2  .``open index.html``
 
 ## Collaborate
